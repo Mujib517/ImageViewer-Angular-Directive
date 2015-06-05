@@ -7,10 +7,7 @@ steps to setup:
 
 Example Usage:
 
-<div style="width:800px;height:300px;">
-    <my-image-viewer images="images"></my-image-viewer>
-</div>
-
+ <my-image-viewer images="images"></my-image-viewer>
 
 Input:
 images: specifies the array of image paths.
