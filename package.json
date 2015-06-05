@@ -1,0 +1,23 @@
+{
+  "name": "AngularSeedComponent",
+  "version": "0.0.1",
+  "description": "package.json for seed component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://Mujib517@bitbucket.org/Mujib517/seed-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-common-html2js": "^0.3.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-less": "^1.0.1",
+    "grunt-contrib-uglify": "^0.9.1"
+  }
+}
